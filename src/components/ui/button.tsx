@@ -21,6 +21,7 @@ const buttonVariants = cva(
           "hover:bg-accent hover:text-accent-foreground dark:hover:bg-accent/50",
         berkan:
           "bg-[#fff] border-[1px solid #333639] color-[#0F1419]",
+        onlyjs: "",
         link: "text-primary underline-offset-4 hover:underline",
       },
       size: {

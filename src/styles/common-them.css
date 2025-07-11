@@ -2,6 +2,6 @@ body{
     background: #121212;
 }
 
-p,a,span,b,i{
+p,span,b,i,small{
     color: #E7E9EA;
 }
